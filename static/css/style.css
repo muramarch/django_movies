@@ -20,6 +20,7 @@ a:hover {
     text-decoration: none;
 }
 
+
 input[type="button"],
 input[type="submit"],
 input[type="text"],
@@ -405,6 +406,13 @@ li > a:only-child:after {
 }
 
 /*-- place holder --*/
+
+.bg1 {
+    background-color: #000;
+    margin-top: 0px;
+    background-image: url(../single-post-pic.jpg);
+}
+
 
 .banner-form ::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
